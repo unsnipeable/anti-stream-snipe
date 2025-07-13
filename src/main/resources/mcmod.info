@@ -1,12 +1,12 @@
 [
 {
-  "modid": "2muuclient2",
-  "name": "2muu Client",
-  "description": ";3",
-  "version": "2.0",
+  "modid": "maphider",
+  "name": "Map Hider",
+  "description": "made by matanku ;3",
+  "version": "1.0",
   "mcversion": "1.8.9",
   "url": "",
-  "updateUrl": "",
+  "updateUrl": "https://github.com/unsnipeable/anti-stream-snipe",
   "authorList": ["matanku"],
   "credits": "",
   "logoFile": "",
